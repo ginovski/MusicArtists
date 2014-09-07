@@ -1,0 +1,12 @@
+C:\Users\Alexandar\Desktop\MusicArtists\MusicArtists.Data\bin\Debug\MusicArtists.Data.dll.config
+C:\Users\Alexandar\Desktop\MusicArtists\MusicArtists.Data\bin\Debug\MusicArtists.Data.dll
+C:\Users\Alexandar\Desktop\MusicArtists\MusicArtists.Data\bin\Debug\MusicArtists.Data.pdb
+C:\Users\Alexandar\Desktop\MusicArtists\MusicArtists.Data\bin\Debug\EntityFramework.dll
+C:\Users\Alexandar\Desktop\MusicArtists\MusicArtists.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alexandar\Desktop\MusicArtists\MusicArtists.Data\bin\Debug\MusicArtists.Models.dll
+C:\Users\Alexandar\Desktop\MusicArtists\MusicArtists.Data\bin\Debug\MusicArtists.Models.pdb
+C:\Users\Alexandar\Desktop\MusicArtists\MusicArtists.Data\bin\Debug\EntityFramework.xml
+C:\Users\Alexandar\Desktop\MusicArtists\MusicArtists.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alexandar\Desktop\MusicArtists\MusicArtists.Data\obj\Debug\MusicArtists.Data.csprojResolveAssemblyReference.cache
+C:\Users\Alexandar\Desktop\MusicArtists\MusicArtists.Data\obj\Debug\MusicArtists.Data.dll
+C:\Users\Alexandar\Desktop\MusicArtists\MusicArtists.Data\obj\Debug\MusicArtists.Data.pdb
