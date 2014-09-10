@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicArtists.Data", "MusicA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicArtists.WebAPI", "MusicArtists.WebAPI\MusicArtists.WebAPI.csproj", "{781A8116-487C-42D9-8D46-030501138960}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicArtists.ConsoleClient", "MusicArtists.ConsoleClient\MusicArtists.ConsoleClient.csproj", "{8A6ABBAB-2D2B-4E44-B6DB-C0E2C084DD01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{781A8116-487C-42D9-8D46-030501138960}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{781A8116-487C-42D9-8D46-030501138960}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{781A8116-487C-42D9-8D46-030501138960}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A6ABBAB-2D2B-4E44-B6DB-C0E2C084DD01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A6ABBAB-2D2B-4E44-B6DB-C0E2C084DD01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A6ABBAB-2D2B-4E44-B6DB-C0E2C084DD01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A6ABBAB-2D2B-4E44-B6DB-C0E2C084DD01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

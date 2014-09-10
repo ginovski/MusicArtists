@@ -30,6 +30,23 @@
             return this.albums.Get(id);
         }
 
+        public IEnumerable<Album> Get(string title)
+        {
+            return this.albums.All().Where(a => a.Title == title);
+        }
+
+        [HttpGet]
+        public IEnumerable<Album> GetByProducer(string producer)
+        {
+            return this.albums.All().Where(a => a.Producer == producer);
+        }
+
+        [HttpGet]
+        public IEnumerable<Album> GetByYear(int year)
+        {
+            return this.albums.All().Where(a => a.Year == year);
+        }
+
         public void Post([FromBody]Album album)
         {
             this.albums.Add(album);

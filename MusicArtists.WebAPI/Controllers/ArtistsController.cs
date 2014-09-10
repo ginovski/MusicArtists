@@ -37,16 +37,9 @@
         }
 
         [HttpGet]
-        public Artist GetByName(string name)
+        public IEnumerable<Artist> GetByName(string name)
         {
-            return this.artists.All().FirstOrDefault(a => a.Name == name);
-        }
-
-        [Route("api/artists/{artistId}/albums")]
-        [HttpGet]
-        public IEnumerable<Album> GetAlbumsById(int artistId)
-        {
-            return this.artists.Get(artistId).Albums;
+            return this.artists.All().Where(a => a.Name == name);
         }
 
         public void Post([FromBody]Artist artist)

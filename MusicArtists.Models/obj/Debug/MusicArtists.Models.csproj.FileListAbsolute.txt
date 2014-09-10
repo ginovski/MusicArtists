@@ -7,3 +7,13 @@ C:\Users\Alexandar\Desktop\MusicArtists\MusicArtists.Models\bin\Debug\EntityFram
 C:\Users\Alexandar\Desktop\MusicArtists\MusicArtists.Models\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Alexandar\Desktop\MusicArtists\MusicArtists.Models\obj\Debug\MusicArtists.Models.dll
 C:\Users\Alexandar\Desktop\MusicArtists\MusicArtists.Models\obj\Debug\MusicArtists.Models.pdb
+C:\Users\Alexandar\Desktop\Telerik Academy\Web services and Cloud\2.ASP.NET Web API\ASP.NET Web API\MusicArtists\MusicArtists.Models\bin\Debug\MusicArtists.Models.dll.config
+C:\Users\Alexandar\Desktop\Telerik Academy\Web services and Cloud\2.ASP.NET Web API\ASP.NET Web API\MusicArtists\MusicArtists.Models\bin\Debug\MusicArtists.Models.dll
+C:\Users\Alexandar\Desktop\Telerik Academy\Web services and Cloud\2.ASP.NET Web API\ASP.NET Web API\MusicArtists\MusicArtists.Models\bin\Debug\MusicArtists.Models.pdb
+C:\Users\Alexandar\Desktop\Telerik Academy\Web services and Cloud\2.ASP.NET Web API\ASP.NET Web API\MusicArtists\MusicArtists.Models\bin\Debug\EntityFramework.dll
+C:\Users\Alexandar\Desktop\Telerik Academy\Web services and Cloud\2.ASP.NET Web API\ASP.NET Web API\MusicArtists\MusicArtists.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alexandar\Desktop\Telerik Academy\Web services and Cloud\2.ASP.NET Web API\ASP.NET Web API\MusicArtists\MusicArtists.Models\bin\Debug\EntityFramework.xml
+C:\Users\Alexandar\Desktop\Telerik Academy\Web services and Cloud\2.ASP.NET Web API\ASP.NET Web API\MusicArtists\MusicArtists.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alexandar\Desktop\Telerik Academy\Web services and Cloud\2.ASP.NET Web API\ASP.NET Web API\MusicArtists\MusicArtists.Models\obj\Debug\MusicArtists.Models.dll
+C:\Users\Alexandar\Desktop\Telerik Academy\Web services and Cloud\2.ASP.NET Web API\ASP.NET Web API\MusicArtists\MusicArtists.Models\obj\Debug\MusicArtists.Models.pdb
+C:\Users\Alexandar\Desktop\Telerik Academy\Web services and Cloud\2.ASP.NET Web API\ASP.NET Web API\MusicArtists\MusicArtists.Models\obj\Debug\MusicArtists.Models.csprojResolveAssemblyReference.cache

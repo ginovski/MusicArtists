@@ -10,3 +10,15 @@ C:\Users\Alexandar\Desktop\MusicArtists\MusicArtists.Data\bin\Debug\EntityFramew
 C:\Users\Alexandar\Desktop\MusicArtists\MusicArtists.Data\obj\Debug\MusicArtists.Data.csprojResolveAssemblyReference.cache
 C:\Users\Alexandar\Desktop\MusicArtists\MusicArtists.Data\obj\Debug\MusicArtists.Data.dll
 C:\Users\Alexandar\Desktop\MusicArtists\MusicArtists.Data\obj\Debug\MusicArtists.Data.pdb
+C:\Users\Alexandar\Desktop\Telerik Academy\Web services and Cloud\2.ASP.NET Web API\ASP.NET Web API\MusicArtists\MusicArtists.Data\bin\Debug\MusicArtists.Data.dll.config
+C:\Users\Alexandar\Desktop\Telerik Academy\Web services and Cloud\2.ASP.NET Web API\ASP.NET Web API\MusicArtists\MusicArtists.Data\bin\Debug\MusicArtists.Data.dll
+C:\Users\Alexandar\Desktop\Telerik Academy\Web services and Cloud\2.ASP.NET Web API\ASP.NET Web API\MusicArtists\MusicArtists.Data\bin\Debug\MusicArtists.Data.pdb
+C:\Users\Alexandar\Desktop\Telerik Academy\Web services and Cloud\2.ASP.NET Web API\ASP.NET Web API\MusicArtists\MusicArtists.Data\bin\Debug\EntityFramework.dll
+C:\Users\Alexandar\Desktop\Telerik Academy\Web services and Cloud\2.ASP.NET Web API\ASP.NET Web API\MusicArtists\MusicArtists.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alexandar\Desktop\Telerik Academy\Web services and Cloud\2.ASP.NET Web API\ASP.NET Web API\MusicArtists\MusicArtists.Data\bin\Debug\MusicArtists.Models.dll
+C:\Users\Alexandar\Desktop\Telerik Academy\Web services and Cloud\2.ASP.NET Web API\ASP.NET Web API\MusicArtists\MusicArtists.Data\bin\Debug\MusicArtists.Models.pdb
+C:\Users\Alexandar\Desktop\Telerik Academy\Web services and Cloud\2.ASP.NET Web API\ASP.NET Web API\MusicArtists\MusicArtists.Data\bin\Debug\EntityFramework.xml
+C:\Users\Alexandar\Desktop\Telerik Academy\Web services and Cloud\2.ASP.NET Web API\ASP.NET Web API\MusicArtists\MusicArtists.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alexandar\Desktop\Telerik Academy\Web services and Cloud\2.ASP.NET Web API\ASP.NET Web API\MusicArtists\MusicArtists.Data\obj\Debug\MusicArtists.Data.csprojResolveAssemblyReference.cache
+C:\Users\Alexandar\Desktop\Telerik Academy\Web services and Cloud\2.ASP.NET Web API\ASP.NET Web API\MusicArtists\MusicArtists.Data\obj\Debug\MusicArtists.Data.dll
+C:\Users\Alexandar\Desktop\Telerik Academy\Web services and Cloud\2.ASP.NET Web API\ASP.NET Web API\MusicArtists\MusicArtists.Data\obj\Debug\MusicArtists.Data.pdb
